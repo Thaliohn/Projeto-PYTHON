@@ -1,1 +1,1 @@
-nome = 'Rebeca'
+# Pasta destinada a estudos do pandas
